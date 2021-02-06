@@ -8,7 +8,9 @@
 Estudante de Física apaixonado por ciência de dados
 
 Conheça meus repositórios legais:
+
 [Disciplinas de Bacharelado de Física](https://github.com/Khrons/Curso-de-Fisica)
+
 [Projetos em Data Science](https://github.com/Khrons/Curso-de-Fisica)
  
  
