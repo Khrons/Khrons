@@ -2,7 +2,7 @@
 
  
   <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
-</p>
+
 
 
 ## Hi! I'm Ygor Gregory
