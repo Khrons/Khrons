@@ -1,11 +1,12 @@
-<p align="center"> Welcome!
- </p>
+<p align="center"> ## Welcome!
+
  
-<p align="center">
   <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
 </p>
 
+
 ## Hi! I'm Ygor Gregory
+ </p>
  
 Estudante de Física apaixonado por ciência de dados
 
