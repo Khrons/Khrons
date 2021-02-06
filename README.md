@@ -5,7 +5,7 @@
  
 ## I'm Ygor Gregory
  
-Estudante de Física apaixonado por pastel e ciência de dados
+Estudante de Física apaixonado por ciência de dados
  
  
 ## About me 
