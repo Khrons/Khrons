@@ -1,9 +1,11 @@
-<img align="right" width="400" height="400" src="https://github.com/Khrons/Khrons/blob/main/img/Captura%20de%20tela%202021-02-06%20113747.jpg">
-
-
-# Welcome!
+<p align="center"> # Welcome!
+ </p>
  
-## I'm Ygor Gregory
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
+</p>
+
+## Hi! I'm Ygor Gregory
  
 Estudante de Física apaixonado por ciência de dados
 
@@ -22,3 +24,4 @@ Conheça meus repositórios legais:
  
 - Thanks for visiting. 
  
+<a href='https://br.freepik.com/vetores/fundo'>Fundo vetor criado por vectorpouch - br.freepik.com</a>
