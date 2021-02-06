@@ -1,9 +1,9 @@
-<p align="center"> I'm Ygor Gregory 
 
- 
- <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
+<p align="center">
+  <b>Hi, I'm Ygor Gregory</b><br>
+  <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
 </p>
- 
+
 Estudante de Física apaixonado por ciência de dados
 
 Conheça meus repositórios legais:
