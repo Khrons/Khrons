@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/Captura%20de%20tela%202021-02-06%20113747.jpg">
+<img align="right" width="400" height="400" src="https://github.com/Khrons/Khrons/blob/main/img/Captura%20de%20tela%202021-02-06%20113747.jpg">
 
 
 # Welcome!
