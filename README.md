@@ -1,4 +1,6 @@
-<p align="center"> ## Welcome! </p>
+<p align="center"> 
+ <h6> Welcome! </h6>
+</p>
 
  
  <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
