@@ -1,11 +1,17 @@
-<img align="right" width="300" height="400" src="https://github.com/Khrons/Khrons/blob/main/img/me.2.jpg">
+<img align="right" width="400" height="400" src="https://github.com/Khrons/Khrons/blob/main/img/Captura%20de%20tela%202021-02-06%20113747.jpg">
 
 
 # Welcome!
  
 ## I'm Ygor Gregory
  
-Estudante de Física apaixonado por pastel e ciência de dados
+Estudante de Física apaixonado por ciência de dados
+
+Conheça meus repositórios legais:
+
+[Disciplinas de Bacharelado de Física](https://github.com/Khrons/Curso-de-Fisica)
+
+[Projetos em Data Science](https://github.com/Khrons/Curso-de-Fisica)
  
  
 ## About me 
