@@ -1,11 +1,11 @@
-<img align="right" width="300" height="400" src="https://github.com/Khrons/Khrons/blob/main/img/me.jpg">
+<img align="right" width="300" height="400" src="https://github.com/Khrons/Khrons/blob/main/img/me.2.jpg">
 
 
 # Welcome!
  
 ## I'm Ygor Gregory
  
-Estudante de Física e apaixonado por ciência de dados
+Estudante de Física apaixonado por pastel e ciência de dados
  
  
 ## About me 
