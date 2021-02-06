@@ -1,4 +1,4 @@
-<p align="center"> # Welcome!
+<p align="center"> Welcome!
  </p>
  
 <p align="center">
