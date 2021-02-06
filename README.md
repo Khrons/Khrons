@@ -1,4 +1,4 @@
-<p align="center" "I'm Ygor Gregory" > </p>
+<p align="center"> I'm Ygor Gregory </p>
 
  
  <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
@@ -12,7 +12,7 @@ Conheça meus repositórios legais:
 
 [Projetos em Data Science](https://github.com/Khrons/Curso-de-Fisica)
  
- Stats:
+
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khrons&theme=radical&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
  
