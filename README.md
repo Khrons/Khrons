@@ -1,10 +1,9 @@
-<p align="center"> ## Welcome!
+<p align="center"> ## Welcome! </p>
 
  
-  <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
+ <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
 
-
-
+<p align="center">
 ## Hi! I'm Ygor Gregory
  </p>
  
