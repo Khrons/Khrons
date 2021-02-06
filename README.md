@@ -1,12 +1,12 @@
 <p align="center"> 
- <h6> Welcome! </h6>
+ <h1> Welcome! </h1>
 </p>
 
  
  <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/1062.jpg">
 
 <p align="center">
-## Hi! I'm Ygor Gregory
+<h2> Hi! I'm Ygor Gregory </h2>
  </p>
  
 Estudante de Física apaixonado por ciência de dados
