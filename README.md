@@ -1,10 +1,14 @@
 
 <p align="center">
   <b>Hi, I'm Ygor Gregory</b><br>
-  <img width="460" height="300" src="https://github.com/Khrons/Khrons/blob/main/img/use_your_head.gif">
+  <b></b><br>
+  <img width="460" height="200" src="https://github.com/Khrons/Khrons/blob/main/img/use_your_head.gif">
 </p>
 
-Estudante de Física apaixonado por ciência de dados
+<p align="center">
+  <b>Estudante de Física apaixonado gráficos bonitos e dados</b><br>
+</p>
+
 
 Conheça meus repositórios legais:
 
