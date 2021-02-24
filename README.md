@@ -28,5 +28,3 @@ Conheça meus repositórios legais:
  
  
 - Thanks for visiting. 
- 
-<a href='https://br.freepik.com/vetores/fundo'>Fundo vetor criado por vectorpouch - br.freepik.com</a>
